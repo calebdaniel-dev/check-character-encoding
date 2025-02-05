@@ -7,8 +7,8 @@ A Python script to check and diagnose character encoding issues in files, with a
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/calebdaniel-dev/check-character-encoding.git
+cd check-character-encoding
 ```
 
 2. Install the required dependencies:
